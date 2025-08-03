@@ -2,7 +2,7 @@
 
 A simple web app that helps users build eco-friendly habits and track their progress. Users can add eco-friendly habits, earn points for each action, and see their cumulative score grow.  
 
-![screenshot](./screenshot.png) *(optional: add an image)*  
+![screenshot](./screenshot.png)
 
 ---
 
